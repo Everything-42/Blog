@@ -33,8 +33,6 @@ favicon: https://s2.loli.net/2024/08/20/rdLfczZQqwSipUo.png
 navigation:
   - name: 首页
     url: /
-  - name: 文章
-    url: /about
 
 
 # 每页的文章数
