@@ -3,10 +3,11 @@ layout: post
 title: 如何购买黑塔利亚音乐剧圆盘
 date: 2024-08-20
 Author: 来自异世界
-categories: 
 tags: [document]
 comments: true
---- 
+toc: true
+---
+
 GLW蓝光盘：两张碟，一张碟收录正篇（预计是东京大千秋乐），圆盘和配信的对比可以看视频，此专栏只介绍下单购买事项。
 
 ## 购买版本选择
