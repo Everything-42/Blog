@@ -1,39 +1,75 @@
 ---
 layout: post
-title: LOFFER使用基础教程
-date: 2019-06-02
-author: 来自中世界
-tags: [sample, document]
+title: 如何购买黑塔利亚音乐剧圆盘
+date: 2024-08-20
+author: 来自异世界
 comments: true
 toc: true
 pinned: true
 ---
-LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
+GLW蓝光盘：两张碟，一张碟收录正篇（预计是东京大千秋乐），圆盘和配信的对比可以看视频，此专栏只介绍下单购买事项。
 
-这是一个可以直接发布在GitHub page的Jekyll博客，你不需要编写代码或使用命令行即可配置属于你的LOFFER。
+## 购买版本选择
 
-本文为针对完全没有代码基础的朋友的基础教程。
+下面的所有版本都只有特典区别，蓝光碟收录内容都是一样的。
 
-## 注意
+### 需要特典
+**需要演员复制签名生写**→购买Animate一般流通盘
+产品链接：<https://www.animate-onlineshop.jp/pn/pd/2934015/>
 
-LOFFER是一个**博客模板**。
+支付方式：可使用信用卡/PayPal/银联/支付宝
 
-虽然意图有针对lofter用户，但是我个人狠不赞同纯外链停车操作，你整整齐齐打理个自由自在没有敏感词的个人博客有啥不好。
+（支付方式选择信用卡的话，当前下单不扣款，按照明年出荷的汇率扣款
 
-**不要用我的Discus账户，请配置你自己的，本文档中有教程**
+选其他支付方式的话，当前下单就付款，按现在下单的汇率算）
+![.png](https://s2.loli.net/2024/08/20/6VAjkZp4ni2RNGY.jpg)
 
-如有疑问，请阅读[GitHub Pages官方说明](https://pages.github.com/)。
+**需要BD发售Event的观看权+普通生写**→购买公演期間限定予約盤（2024.10.7截止）
+
+产品链接：<https://www.animate-onlineshop.jp/pn/pd/2920561/>
+支付方式：信用卡 (VISA/Matercard/JCB)
+当前下单不扣款，按照明年出荷的汇率扣款
+
+BD发售Event观看权和时间问题: 这次GLW的盘是25.2.26发售，推测这次的应募很可能在25年3月底截止。不出意外的话，正常的转运速度应该是能赶上，但有一些日淘app本来处理就很慢，如果走海运真的超慢…… 所以是有拿到手后过了应募期这个风险的，请谨慎选择购买公演限定预约盘或一般流通盘。
+
+以及如果参加了应募，收到了视听链接，BD发售event是在明年4.29，不是一直都能收看的，会有一段限定的视听时间，记得及时查看。
 
 
-## 图文教程
+### 不需要特典
+有日亚和乐天发售不带特点的一般流通盘
 
-注意以下需要上电脑操作。
+**乐天**：
+[购买链接](https://books.rakuten.co.jp/rb/17969128/?scid=af_sp_etc&sc2id=af_101_0_0)
 
-### 第一步 使用这个template
+价格：8603円/约420RMB
+
+乐天的初回生产限定特典：演员明信片（特典售完即止）
+
+
+
+**日亚**：
+[购买链接](https://www.amazon.co.jp/-/zh/dp/B0DCYWLVZJ/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.RJPFhdAThT8HAPwXtLjdMw.mptKWY7WaLLxqwNWqXgbicblmNEtyKOaBhbgz-thTpI&dib_tag=se&keywords=%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB%E3%80%8C%E3%83%98%E3%82%BF%E3%83%AA%E3%82%A2%EF%BD%9EThe+glorious+world%EF%BD%9E%E3%80%8D%E3%80%90Blu-ray%E3%80%91&qid=1724128034&sr=8-1)
+
+价格：8431円
+
+无特典
+
+
+**如果想查看更多版本区别和前作信息，可以看三角老师的专栏：[黑塔利亚音乐剧 观看顺序](https://b23.tv/Kfkjm5X)**
+
+
+
+## 购买方式
+
+### 1. 找代购
 
 请点击[GitHub](https://github.com/)，注册一个GitHub账户，这是完全免费的，只要提供邮箱即可。
 
-现在你看到的LOFFER，是作为一个GitHub上的Repository（代码库）存在的，我将之设为可以作为template（模板），你可以用这个模板来生成一份自己的LOFFER。
+比如某宝搜索animate代购，会有大量的代购服务
+选个你能感觉比较靠谱的，把这次的购买链接甩给客服直接问就行了。会有代购费，但是很方便，找个靠谱的，一般来说客服是活人想赚你的钱也会比较负责。
+
+优点：省心
+缺点：额外费用
 
 点击[LOFFER](https://github.com/FromEndWorld/LOFFER)，进入LOFFER的GitHub Repository页面，然后点**Use this template**，如图所示。
 
