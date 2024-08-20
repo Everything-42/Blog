@@ -1,25 +1,4 @@
 #
-# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
-#
-
-# 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
-# 注意，“name: LOFFER”，冒号后面的空格不可以省略。
-# 井号后面的文字是说明文档，不会被程序读取。
-
-# 描述/签名
-name: Just a Blog
-description: 
-
-# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
-
-# 添加你的博客的二级域名，一般来说是你的repository名
-# 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
-# 那么就写成 "/repository-name"
-baseurl: /Blog
-
-
-#
 # 下面的设定都是可选的
 #
 
@@ -33,13 +12,20 @@ favicon: https://s2.loli.net/2024/08/20/rdLfczZQqwSipUo.png
 navigation:
   - name: 首页
     url: /
-
+  - name: 关于
+    url: /about
+  - name: 归档
+    url: /archive
+  - name: 标签
+    url: /tags
 
 # 每页的文章数
 paginate: 8
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
+
+# 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 
 
 # 站点页脚的文字
@@ -52,6 +38,7 @@ footer-text: Copyright (c) 2024 来自异世界
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
 disqus: loffer #Seven
 
+
 # 输入Google Analytics web tracking code
 google_analytics:
 
@@ -59,6 +46,11 @@ utteranc:
   repo: # Your github repo path, also see: https://utteranc.es
 
 #
+
+
+
+
+
 # !! 以下所有设置都不需要更改 !!
 #
 
