@@ -43,7 +43,7 @@ GLW蓝光盘：两张碟，一张碟收录正篇（预计是东京大千秋乐�
 <br>
 
 ### 不需要特典
-有日亚和乐天发售不带特点的一般流通盘
+有日亚和乐天发售不带特典的一般流通盘
 
 **乐天**：
 
@@ -60,7 +60,7 @@ GLW蓝光盘：两张碟，一张碟收录正篇（预计是东京大千秋乐�
 [购买链接](https://www.amazon.co.jp/-/zh/dp/B0DCYWLVZJ/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.RJPFhdAThT8HAPwXtLjdMw.mptKWY7WaLLxqwNWqXgbicblmNEtyKOaBhbgz-thTpI&dib_tag=se&keywords=%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB%E3%80%8C%E3%83%98%E3%82%BF%E3%83%AA%E3%82%A2%EF%BD%9EThe+glorious+world%EF%BD%9E%E3%80%8D%E3%80%90Blu-ray%E3%80%91&qid=1724128034&sr=8-1)
 
 价格：8431円
-
+<br>
 无特典
 <br>
 
@@ -192,6 +192,7 @@ A店可以搜到WW, FW, FW Special, Final Live, Special Box(包含前三部的�
 买之前记得看下页面的库存状态，买是都可以买，有的是现货，有的要订购所以会延期发。
 <br>
 
+
 ### Q2. 买了圆盘还要买配信吗？
 A: 圆盘只收录一场东京大千秋乐+其他花絮日替即兴，而且要明年发售。
 
@@ -209,6 +210,7 @@ U-Next会员注册可以参考这篇[小红书](http://xhslink.com/rtO0RT)
 
 注册流程大差不差但是需要一点魔法（日本ip）。
 <br>
+
 
 ### Q3. 什么是Extra或者Special盘？
 
